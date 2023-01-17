@@ -18,16 +18,11 @@ function Mission() {
             />
 
             <p>
-              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Omnis,
-              ex, amet, quisquam magni quasi modi sint accusamus architecto
-              velit veritatis nobis autem repellat dolore quis atque totam
-              laudantium ab sed impedit beatae esse error culpa voluptatem eius
-              et. <br></br>
-              Aut, nulla, debitis voluptates doloribus quisquam maiores
-              repudiandae nam culpa voluptatibus alias earum magnam numquam.
-              Consectetur, ratione, ipsam totam et nesciunt atque temporibus
-              fuga quos rem deserunt tempore dolore eaque dolorum a doloremque
-              optio nihil pariatur aliquid ex id officiis aliquam sed.
+              To impart effective education at undergraduate levels in the field of Computer Science and Engineering.
+              To conduct Research and Development and offer consultancy services.
+              To improve continuously the quality of teaching-learning process.
+              To strive steadily for the overall growth and development of intellect and personality of the students who, as professionals, would be confident to face the challenges of the world of work.
+              To empower the faculty and staff for overall development of students.
             </p>
           </div>
         </div>
@@ -39,18 +34,13 @@ function Mission() {
         </div>
         <div class="row">
           <div class="col-md-13">
-            <p>
-              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Omnis,
-              ex, amet, quisquam magni quasi modi sint accusamus architecto
-              velit veritatis nobis autem repellat dolore quis atque totam
-              laudantium ab sed impedit beatae esse error culpa voluptatem eius
-              et. <br></br>
-              Aut, nulla, debitis voluptates doloribus quisquam maiores
-              repudiandae nam culpa voluptatibus alias earum magnam numquam.
-              Consectetur, ratione, ipsam totam et nesciunt atque temporibus
-              fuga quos rem deserunt tempore dolore eaque dolorum a doloremque
-              optio nihil pariatur aliquid ex id officiis aliquam sed.
-            </p>
+            <ul>
+                <li>To impart effective education at undergraduate levels in the field of Computer Science and Engineering. </li>
+                <li>To conduct Research and Development and offer consultancy services. </li>
+                <li>To improve continuously the quality of teaching-learning process. </li>
+                <li>To strive steadily for the overall growth and development of intellect and personality of the students who, as professionals, would be confident to face the challenges of the world of work.</li>
+                <li>To empower the faculty and staff for overall development of students.</li>
+            </ul>
           </div>
         </div>
       </div>
@@ -61,18 +51,11 @@ function Mission() {
         </div>
         <div class="row">
           <div class="col-md-13">
-            <p>
-              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Omnis,
-              ex, amet, quisquam magni quasi modi sint accusamus architecto
-              velit veritatis nobis autem repellat dolore quis atque totam
-              laudantium ab sed impedit beatae esse error culpa voluptatem eius
-              et. <br></br>
-              Aut, nulla, debitis voluptates doloribus quisquam maiores
-              repudiandae nam culpa voluptatibus alias earum magnam numquam.
-              Consectetur, ratione, ipsam totam et nesciunt atque temporibus
-              fuga quos rem deserunt tempore dolore eaque dolorum a doloremque
-              optio nihil pariatur aliquid ex id officiis aliquam sed.
-            </p>
+            <ul>
+                <li>To promote Research and Development in the frontier areas of Computer Science & Engineering. </li>
+                <li> To generate Competent Professionals to become part of the industry and Research Organizations at the National and International levels. </li>
+                <li>To provide necessary strengths to enable the students to Innovate and to become Entrepreneurs. </li>
+            </ul>
           </div>
         </div>
       </div>
